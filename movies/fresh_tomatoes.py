@@ -2,6 +2,10 @@ import webbrowser
 import os
 import re
 
+"""
+  fresh_tomatoes.py builds the HTML page for movie trailer website and is
+  imported as a module by entertainment_center.py
+"""
 
 # Styles and scripting for the page
 # This string provides the head section of the
