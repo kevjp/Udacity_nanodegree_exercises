@@ -1,9 +1,16 @@
 # -*- coding: utf-8 -*-
 import webbrowser
 
+""" Python Class which stores favorite movies including movie title,
+box art URL (or poster URL) and a YouTube link to the movie trailer """
+
+
 class Movie():
-    
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
+    """This class provides a way to store movie related information"""
+    VALID_RATINGS = ["G", "PG", "PG-13", "R"]
+
+    def __init__(self, movie_title, movie_storyline,
+                 poster_image, trailer_youtube):
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
