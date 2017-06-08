@@ -1,19 +1,20 @@
 # Table of Contents
-[Entertainment_center](https://github.com/kevjp/Udacity_nanodegree_exercises/edit/master/movies/README.md##Entertainment_center)
 
-[Documentation](https://github.com/kevjp/Udacity_nanodegree_exercises/edit/master/movies/README.md##Documentation)
+[Entertainment_center](#entertainment_center)
 
-[Requirements](https://github.com/kevjp/Udacity_nanodegree_exercises/edit/master/movies/README.md##Requirements)
+[Requirements](#requirements)
 
-[Install](https://github.com/kevjp/Udacity_nanodegree_exercises/edit/master/movies/README.md##Install)
+[Install](#install)
 
-[Examples of use](https://github.com/kevjp/Udacity_nanodegree_exercises/edit/master/movies/README.md##Examples of use)
+[Examples of use](#examples-of-use)
+
+[Contributing](#contributing)
+
+[License](#license)
 
 
 ## Entertainment_center
 Entertainment_center is a python programme which displays a range of movie trailers for your perusal. The programme will load a web page containing a list of movie trailers which you can select and play with a click of a mouse.
-
-## Documentation
 
 ## Requirements
 Requires python 2.7 to be installed
